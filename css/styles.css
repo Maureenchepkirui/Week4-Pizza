@@ -1,3 +1,6 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Fredericka+the+Great&family=Frijole&family=Monoton&display=swap');
+
 html,body,header,
 .landing {
   overflow-x: hidden;
@@ -17,7 +20,7 @@ h1 {
   font-weight: bolder;
   font-family: 'Wallpoet', cursive;
   font-size: 80px;
-  
+  text-shadow: 2px 2px #0000FF;
 }
 
 h5 {
@@ -135,6 +138,7 @@ nav .navbar{
 }
 #variety{
   padding-top: 30px;
+  text-shadow: #0000FF;
 }
 .order{
   background-attachment: fixed;
@@ -184,6 +188,7 @@ td,th{
 }
 #contact{
   color: black;
+  text-shadow: #0000FF;
 }
 #contactdetails h2{
   text-align: left;
@@ -220,6 +225,8 @@ td,th{
 @media only screen and (max-width: 767px){
   .section {
     padding-top: 30px;
+}
+
 }
 .flex-xs-column {
     flex-direction: column;
