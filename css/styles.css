@@ -28,7 +28,7 @@ h5 {
   letter-spacing: 3px;
 }
 #overlay{
-  background-color: rgba(0, 0, 0, 0.1);
+
   height: 100%;
   width: 100%;
   position: absolute;
@@ -61,6 +61,12 @@ nav .navbar{
   position: relative;
   overflow-x: hidden;
 }
+#contact{
+  background-image:url("../images/images.jpeg");
+  text-align: center;
+  color: black;
+  font-family: Monoton;
+}
 .text a{
   font-size: 20px;
   font-weight: 700;
@@ -74,11 +80,11 @@ nav .navbar{
 }
 .card-title{
   text-align: center;
-  color: green;
+
   font-weight: 800;
 }
 .controls-top h2{
-  color: red;
+
   padding-top: 40px;
   padding-bottom: 20px;
   font-weight: bolder;
@@ -93,7 +99,7 @@ nav .navbar{
 
 }
 .about-pic {
-  background-color: orange;
+
   padding-top: 10px;
   padding-right: 10px;
   padding-bottom: 10px;
@@ -102,7 +108,7 @@ nav .navbar{
 #about-us .content{
   padding: 65px 50px 85px;
   width: 100%;
-  background-color: orange;
+
   float:right;
   text-align: justify;
   overflow-x: hidden;
@@ -147,12 +153,12 @@ nav .navbar{
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
-  color: white;
+
   padding-top: 4%;
   padding-bottom: 4%;
 }
 .order-overlay{
-  background-color: yellow;
+
   margin-left: 2%;
   margin-right: 2%;
   padding-bottom: 20px;
@@ -173,26 +179,18 @@ nav .navbar{
 }
 td,th{
   font-size: 20px;
-  color: white;
+
 }
 .choise h2{
-  color:orange;
+
   text-align: left;
 }
 #your-orders{
-  color: white;
+
   font-size: 30px;
 }
 
-#contact h2{
-  text-align: center;
-}
-#contact{
-  color: black;
-  text-shadow: #0000FF;
-}
-#contactdetails h2{
-  text-align: left;
+
 }
 .footer{
   padding-top: 5%;
@@ -209,14 +207,14 @@ td,th{
 }
 #regards{
   text-align: center;
-  color: aliceblue;
+
 }
 #information{
   padding-top: 5%;
   font-size: 22px;
   padding-right: 8%;
   padding-left: 5%;
-  color: #ffa500;
+
 }
 @media only screen and (max-width: 485px){
   .flex-xs-column {
@@ -239,7 +237,7 @@ td,th{
   width: 94%;
 }
 .order-overlay{
-  background-color: rgba(0, 0, 0,0.5);
+
   margin-left: 2%;
   margin-right: 2%;
   padding-right: 16px;
