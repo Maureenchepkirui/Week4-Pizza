@@ -70,6 +70,16 @@ nav .navbar{
   position: relative;
   overflow-x: hidden;
 }
+#contact{
+  background-image: url("../images/contact.webp");
+  background-position: center center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment:fixed;
+  text-align: center;
+  color: blue;
+
+}
 .fa {
 padding: 20px;
 font-size: 30px;
@@ -77,7 +87,7 @@ width: 30px;
 text-align: center;
 text-decoration: none;
 margin: 5px 2px;
-border-radius: 50%;
+border-radius: 100%;
 }
 
 .fa:hover {
