@@ -20,10 +20,17 @@ h1 {
   letter-spacing: 8px;
   color: red;
   font-weight: bolder;
-  font-family: 'Wallpoet', cursive;
-  font-size: 80px;
+  font-size: 90px;
+  text-shadow: 2px 2px #0000FF;
+  font-family: Nosifer;
+}
+h6{
+  color: red;
+  font-weight: bolder;
+  font-size: 40px;
   text-shadow: 2px 2px #0000FF;
   font-family: Bungee;
+
 }
 
 h5 {
@@ -158,7 +165,8 @@ nav .navbar{
   background-size: cover;
   background-repeat: no-repeat;
   font-family: Felipa;
-  color: orange;
+  color: #0000FF;
+  font-size: 30px
 
 }
 
