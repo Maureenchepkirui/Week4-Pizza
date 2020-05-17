@@ -1,6 +1,7 @@
 
 @import url('https://fonts.googleapis.com/css2?family=Fredericka+the+Great&family=Frijole&family=Monoton&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Bungee+Shade&family=Fredericka+the+Great&family=Frijole&family=Monoton&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Nosifer&display=swap');
 html,body,header,
 .landing {
   overflow-x: hidden;
@@ -213,7 +214,7 @@ td,th{
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
-  color: red;
+  color: pink;
   text-shadow: 2px 2px #0000FF;
   }
   .container {
