@@ -208,14 +208,16 @@ td,th{
   padding-top: 5%;
 }
 .menu {
-  height: 500px;
+  height: 350px;
   background-attachment: fixed;
   background-image: url("../images/tikka.jpeg");
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
   color: pink;
-  text-shadow: 2px 2px #0000FF;
+  text-shadow: 6px 6px #0000FF;
+  font-family: Nosifer;
+  font-size: 30px;
   }
   .container {
     position: relative;
