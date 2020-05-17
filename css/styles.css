@@ -2,6 +2,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Fredericka+the+Great&family=Frijole&family=Monoton&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Bungee+Shade&family=Fredericka+the+Great&family=Frijole&family=Monoton&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Nosifer&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Felipa&family=Nosifer&display=swap');
 html,body,header,
 .landing {
   overflow-x: hidden;
@@ -156,6 +157,8 @@ nav .navbar{
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
+  font-family: Felipa;
+  color: orange;
 
 }
 
