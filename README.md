@@ -13,13 +13,12 @@ MAUREEN CHEPKIRUI BETT
 
 
 ## Live Page
-https://Owiti-charles.github.io/Pizza-Deliciosa
 
 
 ## Installation / Setup instruction
 * Open Terminal
 
-* git clone ```https://github.com/Owiti-Charles/Pizza-Deliciosa.git```
+*git clone`https://github.com/Maureenchepkirui/Week4-Pizza`
 
 * cd pizzaweb
 
