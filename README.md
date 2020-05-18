@@ -21,11 +21,8 @@ https://maureenchepkirui.github.io/Week4-Pizza/
 
 ## Installation / Setup instruction
 * Open Terminal
-
-* git clone`https://github.com/Maureenchepkirui/Week4-Pizza`
-
 * cd pizzaweb
-
+*git clone`https://github.com/Maureenchepkirui/Week4-Pizza`
 * code . for visual studio code and atom . for atom
 
 ## Technologies Used
