@@ -12,8 +12,9 @@ MAUREEN CHEPKIRUI BETT
 ## Screenshot
 
 
+
 ## Live Page
-https://Owiti-charles.github.io/Pizza-Deliciosa
+https://maureenchepkirui.github.io/Week4-Pizza/
 
 
 ## Installation / Setup instruction
