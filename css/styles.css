@@ -18,16 +18,16 @@ body{
 
 h1 {
   letter-spacing: 8px;
-  color: red;
+  color:#FFFF00;
   font-weight: bolder;
   font-size: 90px;
-  text-shadow: 2px 2px #0000FF;
+  text-shadow: 4px 4px #008000;
   font-family: Nosifer;
 }
 h6{
   color: red;
   font-weight: bolder;
-  font-size: 40px;
+  font-size: 20px;
   text-shadow: 2px 2px #0000FF;
   font-family: Bungee;
 
@@ -45,6 +45,7 @@ h5 {
 }
 #head{
   padding-top: 10%;
+
 }
 nav .navbar{
   width: 99%;
