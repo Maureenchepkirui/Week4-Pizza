@@ -78,7 +78,7 @@ nav .navbar{
   background-repeat: no-repeat;
   background-attachment:fixed;
   text-align: center;
-  color: :yellow;
+  color:yellow;
 
 }
 .fa {
@@ -287,8 +287,8 @@ color: white;
   background-size: cover;
   background-repeat: no-repeat;
   font-family: Felipa;
-  color: #0000FF;
-  font-size: 30px
+  color: yellow;
+  font-size: 40px
 
 }
 
