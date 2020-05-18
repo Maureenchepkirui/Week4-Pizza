@@ -10,6 +10,7 @@ MAUREEN CHEPKIRUI BETT
 
  A web application for Crazy Pizza Place where  customers order different sizes of pizzas with one or more toppings.
 ## Screenshot
+![]
 
 
 
@@ -21,7 +22,7 @@ https://maureenchepkirui.github.io/Week4-Pizza/
 ## Installation / Setup instruction
 * Open Terminal
 
-* git clone ```https://github.com/Owiti-Charles/Pizza-Deliciosa.git```
+* git clone`https://github.com/Maureenchepkirui/Week4-Pizza`
 
 * cd pizzaweb
 
