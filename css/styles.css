@@ -323,6 +323,7 @@ color: white;
 }
 td,th{
   font-size: 40px;
+  color:red;
 
 }
 .choise h2{
@@ -330,8 +331,9 @@ td,th{
   text-align: left;
 }
 #your-orders{
-
-  font-size: 30px;
+font-size: 40px;
+color:red;
+  
 }
 
 
