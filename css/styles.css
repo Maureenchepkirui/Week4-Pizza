@@ -323,7 +323,7 @@ color: white;
 }
 td,th{
   font-size: 40px;
-  color:red;
+  color:black;
   font-weight:bold;
   font-family:Monoton;
 
@@ -334,7 +334,7 @@ td,th{
 }
 #your-orders{
 font-size: 40px;
-color:red;
+color:black;
 font-weight:bold;
 font-family:Monoton;
 }
