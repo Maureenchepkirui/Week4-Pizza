@@ -185,7 +185,7 @@ $(document).ready(function(){
 
       if ($("input#name").val() && $("input#phone").val() && $("input#location").val()!=""){
 
-        alert(person+", We have recieved your order and it will be delivered to you at "+location+ ". Prepare sh. "+deliceryamount);
+        alert(person+", We have recieved your order and it will be delivered to you at "+location+ ". Pay sh. "+deliceryamount+",upon delivery.");
         $("#totalbill").hide();
         $("#finallmessage").slideDown(1200);
       }
